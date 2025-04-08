@@ -8,7 +8,7 @@
   
 - 👨‍💻 All of my projects are available at [https://rishalat.tech](https://rishalat.tech)
 
-- 💬 Ask me about **MERN stack, psql.**
+- 💬 Ask me about **MERN stack, psql, Go, Python, Kotlin**
 
 - 📫 How to reach me **rishal.mhd009@gmail.com**
 
